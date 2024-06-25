@@ -34,5 +34,7 @@
 # Файлы в репозитории
 
 — French_sentiment_analysis.ipynb тетрадка, где мы обучали модель
+
 — bot_proga.py код для тг-бота
+
 — файлы с моделью находятся здесь: https://drive.google.com/drive/folders/1Vb0CqKtCh2ktBC_4iwRw3I3pQSH_Ccj8?usp=sharing (гитхаб не разрешил такие большие загружать в репозиторий)
